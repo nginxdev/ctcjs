@@ -1,0 +1,16 @@
+{
+	"name": "@q4pradeep/ctcjs",
+	"version": "1.0.1",
+	"description": "Copy to clipboard JS library; Library to copy the rendered html to clipboard.",
+	"license": "MIT",
+	"repository": "q4pradeep/ctcjs",
+	"main": "index.js",
+	"keywords": [
+		"copy to clipboard",
+		"npm",
+		"package",
+		"q4pradeep",
+		"html to clipboard",
+		"clipboard"
+	]
+}
